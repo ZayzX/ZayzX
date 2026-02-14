@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, je suis ZayzX 👋
+un dev français 🇨🇵🇨🇵 qui adore Minecraft et les séries d'animation japonaise 🌸
 
-<!--
-**ZayzX/ZayzX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Compétences 🔥
+- **Java** ☕
+- **Python** 🐍
+- **JavaScript** ⚡
+- **Html** 🌐
+- **Css** 🎨
 
-Here are some ideas to get you started:
+# Projet 🛠️
+- **[Mythic Ore](https://modrinth.com/mod/mythic-ore)**
+- **[Zay'z bow](https://modrinth.com/mod/zayz-bow)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact 📞
+- discord: **zayzx**
+
+# Réseaux 🌐
+- **[Me soutenir ❤️](https://ko-fi.com/zayzx)**
+- **[Mon serveur discord 🗨️](https://discord.gg/A2zH4zjeEb)**
+- **[Ma page guns.lol 📃](https://guns.lol/ZayzX)**
