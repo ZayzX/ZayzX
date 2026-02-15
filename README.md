@@ -11,6 +11,7 @@ un dev français 🇨🇵🇨🇵 qui adore Minecraft et les séries d'animation
 # Projet 🛠️
 - **[Mythic Ore](https://modrinth.com/mod/mythic-ore)**
 - **[Zay'z bow](https://modrinth.com/mod/zayz-bow)**
+- **[ZayzLibs](https://github.com/ZayzX/ZayzLibs)**
 
 # Contact 📞
 - discord: **zayzx**
