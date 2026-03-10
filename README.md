@@ -2,6 +2,7 @@
 un dev français 🇨🇵🇨🇵 qui adore Minecraft et les séries d'animation japonaise 🌸
 
 # Compétences 🔥
+- **C 🦾**
 - **C# 💻**
 - **Java** ☕
 - **Python** 🐍
