@@ -21,4 +21,4 @@ un dev français 🇨🇵🇨🇵 qui adore Minecraft et les séries d'animation
 # Réseaux 🌐
 - **[Me soutenir ❤️](https://ko-fi.com/zayzx)**
 - **[Mon serveur discord 🗨️](https://discord.gg/A2zH4zjeEb)**
-- **[Ma page guns.lol 📃](https://guns.lol/ZayzX)**
+- **[Ma page internet 📃](https://zayzx.vercel.app/)**
