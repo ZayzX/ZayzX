@@ -15,6 +15,7 @@ un dev français 🇨🇵🇨🇵 qui adore Minecraft et les séries d'animation
 - **[Zay'z bow](https://modrinth.com/mod/zayz-bow)**
 - **[ZayzLibs](https://github.com/ZayzX/ZayzLibs)**
 - **[JavaPackageManager](https://github.com/ZayzX/JavaPackageManager/)**
+- **[AppleClicker](https://github.com/ZayzX/AppleClicker/)**
 
 # Contact 📞
 - discord: **zayzx**
