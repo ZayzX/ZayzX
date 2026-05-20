@@ -9,6 +9,7 @@ un dev français 🇨🇵🇨🇵 qui adore Minecraft et les séries d'animation
 - **JavaScript** ⚡
 - **Html** 🌐
 - **Css** 🎨
+- **Assembly** ☠️
 
 # Projet 🛠️
 - **[Mythic Ore](https://modrinth.com/mod/mythic-ore)**
@@ -16,6 +17,7 @@ un dev français 🇨🇵🇨🇵 qui adore Minecraft et les séries d'animation
 - **[ZayzLibs](https://github.com/ZayzX/ZayzLibs)**
 - **[JavaPackageManager](https://github.com/ZayzX/JavaPackageManager/)**
 - **[AppleClicker](https://github.com/ZayzX/AppleClicker/)**
+- **[NexOS](https://github.com/ZayzX/NexOS/)**
 
 # Contact 📞
 - discord: **zayzx**
